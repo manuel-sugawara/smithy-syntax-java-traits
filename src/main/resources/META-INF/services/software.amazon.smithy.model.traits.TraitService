@@ -1,0 +1,5 @@
+mx.sugus.syntax.java.IsaTrait$Provider
+mx.sugus.syntax.java.ConstTrait$Provider
+mx.sugus.syntax.java.InterfaceTrait$Provider
+mx.sugus.syntax.java.JavaTrait$Provider
+mx.sugus.syntax.java.OptionalTrait$Provider
